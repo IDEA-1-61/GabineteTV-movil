@@ -64,9 +64,9 @@ module Calentador(){
 
 //motorNEMA17();
 
-//TeleNueva();
+TeleNueva();
 
-//Calentador();
+Calentador();
 
 //lonTotXm=2072.2mm;
 //lonProfunidadCyan=440mm;
@@ -86,7 +86,7 @@ module Calentador(){
 //color("cyan",alpha=0.5)
 //    linear_extrude(height=6)
 
-
+/*
 espesor=6;
 altura=35;
 largoP=1990;
@@ -133,7 +133,7 @@ largoP=1990;
     
 
 
- 
+ */
  //translate([lonTotXm/2,lonTotY/2,0])
  //Armado();
  

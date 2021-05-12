@@ -120,5 +120,6 @@ module NEMA17bracket(){
 
 $fn=100;
 
-NEMA17bracket();
+
+//NEMA17bracket();
 
