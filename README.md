@@ -4,17 +4,17 @@ Archivos y docuemntos necesarios para la construcción y mantenimiento de un gab
 
 # Descripción
 
-lonX=2010mm=2.01m=2m y 1cm
-lonY=440mm=0.44m=44cm
-lonZ=1300mm=1.3m=1m y 30cm
+El tamaño del aparato final es de:
+- lonX=2010mm=2.01m=2m y 1cm
+- lonY=440mm=0.44m=44cm
+  - lonZ=1300mm=1.3m=1m y 30cm
 
 
 
 ## OpenSCAD
 
 
-#Como contribuir
-
+# Como contribuir
 
 El propósito de hacer un repositorio de códigos de OpenSCAD de código parametrizable es aumentar la experiencia de uso y poder realizar modelos 3D dinámica y con aplicaciones prácticas
 
@@ -29,23 +29,23 @@ En los diseños y o modelos 2D y 3D no debe contener contenido inapropiado o de 
 
 ## IDEA 1.61
 
-![/Imagenes/Logo Idea 1.61](idea.png){ width=100% } 
+![Logo Idea 1.61](Imagenes/idea.png "logo")
 
-https://idea161.org/
+[IDEA 1.61](https://idea161.org/ "sitio web oficial")
 
-https://www.thingiverse.com/
+[Thingiverse](https://www.thingiverse.com/ "diseños")
 
-https://www.youtube.com/channel/UCXwIW7z5ys3FRVoOducFSeQ
+[YouTube](https://www.youtube.com/channel/UCXwIW7z5ys3FRVoOducFSeQ "canal")
 
-contacto@idea161.org
+[Contacto](contacto@idea161.org "correo")
 
 ## Social
 
-https://www.instagram.com/idea161/
+[Instagram](https://www.instagram.com/idea161/ "instagram")
 
-https://www.facebook.com/idea161/
+[Facebook](https://www.facebook.com/idea161/ "facebook")
 
-TelegramChannel t.me/idea161
+[Telegram](t.me/idea161 "canal de telegram")
 
 ## Responsiva
           
@@ -54,7 +54,9 @@ Después de leer los Factores a considerar, nosotros no nos hacemos responsables
 
 ## Anuncio Legal
 
-IDEA1.61 AVISO LEGAL © Copyright IDEA1.61 2018. Todos los derechos reservados. El logotipo de IDEA1.61 es una obra protegida por derechos de autor.
-AVISO LEGAL DE DITAC © Copyright Ditac 2018. Todos los derechos reservados. El logotipo de Ditac es una obra protegida por derechos de autor.
+IDEA1.61 AVISO LEGAL © Copyright IDEA1.61 2021. Todos los derechos reservados. El logotipo de IDEA1.61 es una obra protegida por derechos de autor.
+AVISO LEGAL DE DITAC © Copyright Ditac 2021. Todos los derechos reservados. El logotipo de Ditac es una obra protegida por derechos de autor.
+
+
 
 
